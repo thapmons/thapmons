@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Monsoon Thapa
 
-<!--
-**thapmons/thapmons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Electrical Engineering student graduating May 2026.
 
-Here are some ideas to get you started:
+Former Komatsu Employee with experience in heavy equipment electrical systems, diagnostics, reliability testing, and field engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Interests
+- Embedded Systems
+- Robotics & Control Systems
+- Industrial Automation
+- Electromechanical System Design
+
+---
+
+## Current Focus
+Developing a pole-climbing robotic system designed for industrial inspection and worker safety applications.
+
+---
+
+I build engineering systems that work in real-world industrial environments.
+
