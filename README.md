@@ -2,7 +2,7 @@
 
 MS Electrical Engineering student graduating May 2026.
 
-Former Komatsu Engineer specializing in electrical diagnostics, system reliability, and heavy machinery performance.
+Former Komatsu technician specializing in electrical diagnostics, system reliability, and heavy machinery performance.
 
 ---
 
