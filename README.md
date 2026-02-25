@@ -20,7 +20,7 @@ I design and build reliable hardware–software systems engineered for real-worl
 
 ---
 
-## 🛠 Core Technologies
+## Core Technologies
 
 <p align="center">
 
@@ -38,7 +38,7 @@ I design and build reliable hardware–software systems engineered for real-worl
 
 ---
 
-## 🚀 Selected Engineering Work
+## Selected Engineering Work
 
 ### Pole-Climbing Inspection Robot
 - Dual-arm motorized gripping system for vertical load-bearing operation  
@@ -53,7 +53,7 @@ I design and build reliable hardware–software systems engineered for real-worl
 
 ---
 <!--
-## 📊 Engineering Activity
+## Engineering Activity
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=000000" />
@@ -62,7 +62,7 @@ I design and build reliable hardware–software systems engineered for real-worl
 
 ---
 -->
-## 🎯 Industrial Engineering Strengths
+## Industrial Engineering Strengths
 
 - Mechanical + electrical + control integration  
 - Reliability-oriented system architecture  
